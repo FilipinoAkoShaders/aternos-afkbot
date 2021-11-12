@@ -1,5 +1,5 @@
 {
-	"ip":"YOUR_ATERNOS_SERVER_IP",
-	"port": "YOUR_ATERNOS_SERVER_PORT",
+	"ip":"hypixteam.aternos.me",
+	"port": "43214",
 	"name": "BOT_NAME"
 }
